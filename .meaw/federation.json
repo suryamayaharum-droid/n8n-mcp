@@ -1,0 +1,26 @@
+{
+  "schema": "meaw.federation-link/v1",
+  "organism": "HARUM-MEAW",
+  "component": "n8n-mcp",
+  "repository": "suryamayaharum-droid/n8n-mcp",
+  "role": "workflow-knowledge-bridge",
+  "organ": "workflow-language-center",
+  "capabilities": [
+    "n8n-mcp",
+    "node-schema",
+    "workflow-templates",
+    "automation-knowledge"
+  ],
+  "lifecycle": "adapter",
+  "trust": "owned-fork",
+  "authority": "suryamayaharum-droid/SARASWATI-HIVE-MIND",
+  "authority_manifest": "ecosystem/repository_organism.json",
+  "nervous_system": "suryamayaharum-droid/ai23",
+  "memory_authority": "MemoryCastle@suryamayaharum-droid/SARASWATI-HIVE-MIND",
+  "policy": {
+    "discovery_executes_commands": false,
+    "manifest_grants_execution": false,
+    "explicit_adapter_required": true,
+    "secrets_allowed": false
+  }
+}
